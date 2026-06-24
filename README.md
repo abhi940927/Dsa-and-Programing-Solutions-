@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
