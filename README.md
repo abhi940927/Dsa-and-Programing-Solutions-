@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
