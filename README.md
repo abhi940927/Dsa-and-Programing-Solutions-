@@ -30,12 +30,14 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
