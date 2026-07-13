@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0069-sqrtx) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -81,6 +82,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
