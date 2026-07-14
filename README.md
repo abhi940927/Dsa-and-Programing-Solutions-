@@ -12,6 +12,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -106,4 +108,9 @@
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
