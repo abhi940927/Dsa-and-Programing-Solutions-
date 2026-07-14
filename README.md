@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -103,5 +104,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
