@@ -37,6 +37,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/3174-clear-digits) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0069-sqrtx) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
@@ -109,8 +111,13 @@
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
