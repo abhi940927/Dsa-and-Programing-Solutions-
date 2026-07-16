@@ -12,6 +12,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -71,6 +72,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0162-find-peak-element) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -123,4 +126,8 @@
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
