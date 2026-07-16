@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
+| [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
@@ -44,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/3174-clear-digits) |
 ## Sliding Window
