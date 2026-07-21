@@ -81,6 +81,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0258-add-digits) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -106,6 +107,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/3174-clear-digits) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
