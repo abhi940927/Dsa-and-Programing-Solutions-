@@ -12,6 +12,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1598-crawler-log-folder](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
@@ -24,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sorting
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Binary Search
@@ -82,6 +85,7 @@
 | [0050-powx-n](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -140,4 +144,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
