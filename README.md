@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
@@ -24,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
@@ -59,14 +62,17 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -145,4 +151,12 @@
 | ------- |
 | [0258-add-digits](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
