@@ -175,6 +175,7 @@
 | [0101-symmetric-tree](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0101-symmetric-tree](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,4 +196,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
