@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0044-wildcard-matching) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -107,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -129,6 +131,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0044-wildcard-matching) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/1833-maximum-ice-cream-bars) |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0547-number-of-provinces) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
