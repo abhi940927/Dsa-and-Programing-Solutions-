@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0047-permutations-ii) |
 | [0162-find-peak-element](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
@@ -36,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0451-sort-characters-by-frequency) |
@@ -223,4 +225,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
