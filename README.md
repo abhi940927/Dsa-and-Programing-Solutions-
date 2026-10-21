@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0219-contains-duplicate-ii) |
@@ -230,4 +231,9 @@
 | ------- |
 | [0046-permutations](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
