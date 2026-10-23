@@ -238,4 +238,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0052-n-queens-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhi940927/Dsa-and-Programing-Solutions-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
